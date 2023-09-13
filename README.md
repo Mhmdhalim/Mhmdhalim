@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
 <h3 align="center">Junior in Data science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdhalim&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdhalim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdhalim" alt="mhmdhalim" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdhalim&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdhalim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mhmdhaliim" target="blank"><img src="https://img.shields.io/twitter/follow/mhmdhaliim?logo=twitter&style=for-the-badge" alt="mhmdhaliim" /></a> </p>
+
 
 - 🔭 I’m currently working on **Tic-Toc Game**
 
@@ -31,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdhalim&show_icons=true&locale=en" alt="mhmdhalim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdhalim&" alt="mhmdhalim" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdhalim" alt="mhmdhalim" /></a> </p>
+
