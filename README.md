@@ -1,12 +1,4 @@
-<div align="center" dir="auto">
-          <animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" data-target="animated-image.originalLink"><img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/raw/main/git.gif" height="300/" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" target="_blank">
-          
-  </div>
-          
-
-<h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
+ <h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
 <h3 align="center">Junior in Data science.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdhalim&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdhalim" /> </p>
