@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/9a/d6/3c9ad6cd-56ad-25a1-8dbb-88232c665c65/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png))
+<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
 <h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
 <h3 align="center">Junior in Data science.</h3>
 
