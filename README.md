@@ -1,4 +1,4 @@
-<img src="url" width="50%" height="50%">
+<img src="1920x1080bb-80.png" width="50%" height="50%">
 <h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
 <h3 align="center">Junior in Data science.</h3>
 
