@@ -1,4 +1,5 @@
-<img src="1920x1080bb-80.png" style=" width:60px ; height:60px ">
+<img alt="gif" align="center" src="1920x1080bb-80.png" height="300/" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
 <h3 align="center">Junior in Data science.</h3>
 
