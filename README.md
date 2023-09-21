@@ -6,7 +6,7 @@
     </div>
 
 
-<h1 align="center">Hi, I'm Mohamed Mousa 👋</h1>
+<h1 align="center">Hi, I'm Mhmd Mousa 👋</h1>
 <h3 align="center">Junior in Data science.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdhalim&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdhalim" /> </p>
