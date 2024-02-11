@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi, I'm Mhmd Mousa 👋</h1>
-<h3 align="center">Junior in Data science.</h3>
+<h3 align="center">Junior</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdhalim&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdhalim" /> </p>
 
