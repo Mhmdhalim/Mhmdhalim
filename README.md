@@ -11,7 +11,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdhalim&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdhalim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mhmdhaliim" target="blank"><img src="https://img.shields.io/twitter/follow/mhmdhaliim?logo=twitter&style=for-the-badge" alt="mhmdhaliim" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
