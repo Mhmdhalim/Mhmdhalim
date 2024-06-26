@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content: center; align-items:center;"  >
+<div align="center" style="display:flex; justify-content: center; align-items:center;"  >
   <img height="200" src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png"/>
 
 </div>
