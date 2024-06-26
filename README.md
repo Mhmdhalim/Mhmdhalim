@@ -1,3 +1,7 @@
+<img align="center" height="180" src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png"  />
+
+### 
+
 <h1 align="center">Hi, I'm Mhmd Mousa 👋</h1>
 
 ###
@@ -6,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mhmdhalim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdhalim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="180" src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png"  />
 
 ###
 
