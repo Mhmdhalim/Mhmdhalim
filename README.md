@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png" width="100" height="100" alt="Cute Cartoon Character"/>
+  <img src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png" width="100" height="120" alt="Cute Cartoon Character"/>
 </p>
 
 <h1 align="center">Hi, I'm Mhmd Mousa 👋</h1>
