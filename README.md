@@ -1,4 +1,4 @@
-<div height="25" align="center">
+<div style={height: 20px;} align="center">
   <img src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png" height="100" alt="cartoon" />
 </div>
 
