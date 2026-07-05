@@ -28,30 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;height: 50px;" alt="GitHub" />
 </div>
 
----
 
-### 📈 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdhalim&show_icons=true&theme=dracula&hide_border=false&count_private=true" style="max-width: 100%;height: 150px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhalim&layout=compact&theme=dracula&hide_border=false" style="max-width: 100%;height: 150px;" alt="Top Languages" />
-</div>
-
----
-
-### 📬 Contact Me:
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"style="max-width: 100%;height: 30px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;height: 30px;" />
-  </a>
-  <a href="https://discord.com/users/yourdiscordid">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;height: 30px;" />
-  </a>
-</div>
 
 ---
 
