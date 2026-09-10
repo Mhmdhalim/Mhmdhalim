@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/boy.jpg"
+    src="boy.jpg"
     style="max-width: 100%; height: 250px;"
     alt="cartoon developer"
   />
