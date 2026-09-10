@@ -1,6 +1,10 @@
-<!-- <div align="center">
-  <img src="https://www.pngitem.com/pimgs/m/521-5211656_cute-cartoon-characters-boy-hd-png-download.png" style="max-width: 100%;height: 250px;" alt="cartoon" />
-</div> -->
+<div align="center">
+  <img
+    src="./assets/cartoon-developer.png"
+    style="max-width: 100%; height: 250px;"
+    alt="cartoon developer"
+  />
+</div>
 
 <h1 align="center">Hi, I'm Mohamed Moussa 👋</h1>
 
