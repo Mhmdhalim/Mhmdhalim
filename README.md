@@ -6,7 +6,7 @@
   />
 </div>
 
-<h1 align="center">Hi, I'm Mohamed Moussa 👋</h1>
+<h1 align="center">Hi, I'm Mohamed👋</h1>
 
 <p align="center">
   👨‍💻 MERN Stack Developer | 💡 Passionate about building creative and powerful web applications
